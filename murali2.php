@@ -8,3 +8,5 @@ ehco 'testgiwww.com';
 
 echo 'testgiwww.comererer';
 
+echo 'testgiwww lorem ipsum.';
+
