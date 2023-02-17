@@ -5,7 +5,7 @@ echo "window.top";
 
 echo 'testgi';
 
-ehco 'testgiwww.com';
+echo 'testgiwww.com';
 
 echo 'testgiwww.comererer';
 
